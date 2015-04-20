@@ -1,0 +1,18 @@
+NZ Herald: Daily newspaper provides daily news, business, entertainment, sports and technology news.
+
+
+1. TEXT ONLY: Since NZ Herald covers mighty 200,000 users across the country, NZ Herald fails to provide text only content for screen readers or mostly blind users. Some of the major newspaper websites have made use of text only on top left corner, so screen readers come across that option before anything else. When designing a website readers across the spectrum/ those who fit the persona should be taken in consideration.
+
+2. SEARCH KEYWORDS: NZ Herald uses search bar ideally, centred and at the top of content. However, the place holding text on search bar “Search Keywords” tends to confuse the users. Reading the text on search bar instantly triggers user’s cognition to relate their goal driven search with keywords. Also, given in the context of searching the website it adds additional extra cognitive mechanism to relate with indexing of website. Major researches conducted by N/N group have suggested search bars make websites less redundant, with dependencies on designing of search boxes and their labelling.
+
+3. NAVIGATION BAR: NZ Herald has elegantly designed top navigation. Design supports navigation tracking for user, i.e. first navigation remains touched down and underline whilst being on homepage. However, navigational items such as Opinion, Business and rest are repeated as first menu item in drop down bewildering users.
+
+4. LIFE & STYLE: Horizontal navigation provides generic link to Life & Style that is broadly categorized with books, home and garden, comment and design and build. For majority of users these navigations buried under life & style would be totally oblivious, hindering goal driven tasks on hand. 
+
+5. RSS FEED, SEND YOUR PICS, VIDEOS & TIPS: Position of these elements is undefined and hanging with no consideration of Gestalt’s laws of proximity. RSS feed could have been more functional around top right area with Help & Support and Subscribe button.  
+
+6. BEST OF THE HERALD: NZ Herald maintains the brand name consistently with browser title and for rest of the page. However, The NZ Herald as a brand on its own reflects to the best of the articles as Best of The Herald that does not sit consistently with their brand in New Zealand. Tag line confuses users as if these articles were to be best of The Herald as a parent brand across the globe rather than origination of the news articles.   
+
+7. ADVERTISEMENT: About 20% of first scroll has been wasted with advertisements and repetition of the same within the page. Current web users are very sensitive to advertisements, and designers get very limited amount of time to keep user attention. 
+
+8. QUICK READ & SAVE: Icons are not metaphorically consistent with user recognisability, visually pleasing, universality of icons and icon families. These icons do not support metaphorical meaning for users to relate to from user’s day-to-day digital life. Moreover, quick read could also be perceived as lightening or electric current in the context of electricity, given the usage of similar iconic depiction in electric information boards.  
